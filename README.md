@@ -9,3 +9,8 @@ Also, i will be attempting to make some few files to figure this out.
 
 This project will seriously start someday lol.
 In the mean while i might work on other projects to boost my ability/knowledge.
+
+Some os specifications:
+x86
+16-bit
+16 colours
